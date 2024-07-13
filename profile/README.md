@@ -48,3 +48,10 @@
 |<img width="333" alt="image" src="https://github.com/user-attachments/assets/3363073d-b3f5-47b7-8ef0-68a8c57eb957">|<img width="333" alt="image" src="https://github.com/user-attachments/assets/88f434ec-258f-480a-9aa2-8d09d99b37fa">|<img width="333" alt="image" src="https://github.com/user-attachments/assets/373c617e-1ab0-432d-9f18-49e7357df6f4">|
 |:--------------------------:|:--------------------------:|:--------------------------:|
 | **우승자** | **최다 폭탄배달**| **최다 공격성공** |
+
+<br>
+<br>
+
+## 💣 서비스 아키텍쳐
+<img width="1658" alt="image" src="https://github.com/user-attachments/assets/f8c5efb5-a70a-4a3e-b0c6-29fc1e6103f7">
+
