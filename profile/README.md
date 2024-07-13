@@ -3,9 +3,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmini-game-world&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <img width="732" alt="image" src="https://github.com/user-attachments/assets/e13b1eaf-e861-46da-85e9-7ad3b08ef1cd">
-
+</div>
 <br>
-
+<div align=center>  
+  
 🎮  [게임 즐기러 가기](https://mini-game-world.com/)   🎮 
 
 </div>
@@ -31,3 +32,6 @@
 |<img width="500" alt="image" src="https://github.com/user-attachments/assets/415891cf-5200-45bb-8eb5-cb5900f49610"> |<img width="500" alt="image" src="https://github.com/user-attachments/assets/3ce75719-7777-4c91-aec1-19efeb411cbc">|
 |:--------------------------:|:--------------------------:|
 | **웹 화면** | **모바일 화면**|
+
+
+#### 🥊 플레이어간 상호 작용
