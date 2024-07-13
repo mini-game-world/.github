@@ -9,8 +9,18 @@
 
 </div>
 
-</br>
-</br>
-</br>
+<br>
+<br>
+<br>
 
 ## 💣 프로젝트 소개
+
+<div align=center>
+<br>
+<span style="background-color: #DCFFE4"> 폭탄 대소동은 최대 30명이 함께 즐길 수 있는 서바이벌 게임입니다.  </span>  
+  
+<span style="background-color: #DCFFE4"> 폭탄을 가진 술래로부터 도망가 최후의 1인을 선정하는 게임입니다.   </span>
+</div>
+
+
+## 💣 게임 특징
