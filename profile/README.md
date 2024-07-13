@@ -27,11 +27,24 @@
 
 ## 💣 게임 특징
 
-#### 🧑‍🤝‍🧑 다인 참여 게임
+### 🧑‍🤝‍🧑 **다인 참여 게임**
 
 |<img width="500" alt="image" src="https://github.com/user-attachments/assets/415891cf-5200-45bb-8eb5-cb5900f49610"> |<img width="500" alt="image" src="https://github.com/user-attachments/assets/3ce75719-7777-4c91-aec1-19efeb411cbc">|
 |:--------------------------:|:--------------------------:|
 | **웹 화면** | **모바일 화면**|
 
+<br>
 
-#### 🥊 플레이어간 상호 작용
+### 🥊 **플레이어간 상호 작용**
+
+|<img width="333" alt="image" src="https://github.com/user-attachments/assets/a1f50b08-83b3-4602-b1a2-6d4781a68306">|<img width="333" alt="image" src="https://github.com/user-attachments/assets/176056e5-9811-4338-b7d1-a2833e6fbf73">|<img width="333" alt="image" src="https://github.com/user-attachments/assets/26ff5ed0-ae25-41f9-84b9-4d429388eea8">|
+|:--------------------------:|:--------------------------:|:--------------------------:|
+| **공격** | **아이템**| **채팅** |
+
+<br>
+
+### 👑 **우승자 및 MVP**
+
+|<img width="333" alt="image" src="https://github.com/user-attachments/assets/3363073d-b3f5-47b7-8ef0-68a8c57eb957">|<img width="333" alt="image" src="https://github.com/user-attachments/assets/88f434ec-258f-480a-9aa2-8d09d99b37fa">|<img width="333" alt="image" src="https://github.com/user-attachments/assets/373c617e-1ab0-432d-9f18-49e7357df6f4">|
+|:--------------------------:|:--------------------------:|:--------------------------:|
+| **우승자** | **최다 폭탄배달**| **최다 공격성공** |
