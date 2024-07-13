@@ -4,6 +4,7 @@
 
 <img width="732" alt="image" src="https://github.com/user-attachments/assets/e13b1eaf-e861-46da-85e9-7ad3b08ef1cd">
 
+<br>
 
 🎮  [게임 즐기러 가기](https://mini-game-world.com/)   🎮 
 
@@ -28,5 +29,5 @@
 #### 🧑‍🤝‍🧑 다인 참여 게임
 
 |<img width="500" alt="image" src="https://github.com/user-attachments/assets/415891cf-5200-45bb-8eb5-cb5900f49610"> |<img width="500" alt="image" src="https://github.com/user-attachments/assets/3ce75719-7777-4c91-aec1-19efeb411cbc">|
-|--------------------------|--------------------------|
-| 웹 화면                  | 모바일 화면                    |
+|:--------------------------:|:--------------------------:|
+| **웹 화면** | **모바일 화면**|
