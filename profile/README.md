@@ -24,3 +24,9 @@
 
 
 ## 💣 게임 특징
+
+#### 🧑‍🤝‍🧑 다인 참여 게임
+
+|<img width="500" alt="image" src="https://github.com/user-attachments/assets/415891cf-5200-45bb-8eb5-cb5900f49610"> |<img width="500" alt="image" src="https://github.com/user-attachments/assets/3ce75719-7777-4c91-aec1-19efeb411cbc">|
+|--------------------------|--------------------------|
+| 웹 화면                  | 모바일 화면                    |
